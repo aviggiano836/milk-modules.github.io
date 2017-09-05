@@ -10,19 +10,15 @@
 
 ### Steps
 
-1. Extract the zip file into a directory on the C: drive:
+1. Extract the zip file into a directory on the C: drive, take note of where the file was extracted (the file path):
 
    ![step01](images/01.png)
 
    ​
 
-2. Import project in to Android studio
+2. Open Android studio
 
-   Open Android studio.
-
-   Import project in Android studio
-
-   Open the directory you unzipped  the activity into. 
+   Open the project in Android studio, navigate to the file (DemoApp002-BalloonSimple) using the file path noted in the previous step
 
    ![](images/02.png)
 
