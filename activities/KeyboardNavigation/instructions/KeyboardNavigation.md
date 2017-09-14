@@ -18,11 +18,11 @@ This activity will utilize a pre-created version of this project and only applie
 
 The project contains only one screen (activity). The primary user interface (UI) elements of this screen are:
 
-{0}.	A form containing text boxes, buttons and a list.
+	- A form containing text boxes, buttons and a list.
   [Note: there is no functionality associated with the button clicks]
 
 
-Follow the below steps to associate the focus attributes to the UI controls. All updates below are to be done on the file: ***activity_main.xml***
+Follow the below steps to associate the focus attributes to the UI controls. All updates below are to be done on the file: ***activity_main.xml*** (app/res/layout/activity_main.xml)
 
 1. Update the ‘*editTextName* ’ property listing with the following:
 
